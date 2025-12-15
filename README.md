@@ -1,6 +1,7 @@
 # chat-cdn
 
 A Vanilla Chat CDN powered by n8n. This project provides a straightforward way to integrate chat functionality into your web applications using a Content Delivery Network (CDN) approach.
+[CDN Link](https://cdn.jsdelivr.net/gh/DivineDemon/chat-cdn@main/script.js)
 
 
 ## Badges
